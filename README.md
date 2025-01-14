@@ -96,7 +96,6 @@
 
 <h1>Statistics</h1>
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=devanshsolani&theme=blue-green&hide_border=true" width="350"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=devanshsolani&theme=blue-green&hide_border=true" width="350">
+
   <img src="https://github-readme-stats.vercel.app/api?username=devanshsolani&count_private=true&show_icons=true&theme=blue-green&hide_border=true" width="350">
 </div>
