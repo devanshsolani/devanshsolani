@@ -83,13 +83,12 @@
  
 |        Sr.No  |         TITLE | Certification Body | Verify Here          |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
-|   1  | Software Design and Architecture |    GOOGLE |  <a href="https://coursera.org/share/0639d856c078001b84300c4a559d0d15">View</a>  |
-|   2  | Machine Learning |    GOOGLE |  <a href="https://coursera.org/share/b3e4ec34dd03e0817808d027757b2206">View</a>  |
-|   3  | AI For Everyone  | GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/certificate/YPWT8V9XTKEB">View</a>  |
-|   4  | Problem Solving - Python  | GOOGLE | <a href="https://drive.google.com/file/d/1W53Blg7iSCQYPACAijI9_nijAzV3vdYq/view?usp=sharing">View</a>  |
+|   1  | Software Design and Architecture |    University of Alberta |  <a href="https://coursera.org/share/0639d856c078001b84300c4a559d0d15">View</a>  |
+|   2  | Machine Learning |    Stanford University |  <a href="https://coursera.org/share/b3e4ec34dd03e0817808d027757b2206">View</a>  |
+|   3  | AI For Everyone  | DeepLearning.AI |  <a href="https://www.coursera.org/account/accomplishments/certificate/YPWT8V9XTKEB">View</a>  |
+|   4  | Problem Solving - Python  | HackerRank | <a href="https://drive.google.com/file/d/1W53Blg7iSCQYPACAijI9_nijAzV3vdYq/view?usp=sharing">View</a>  |
 |   5  | Novel approach to phishing detection using ML and visual similarity  | GOOGLE | <a href="https://drive.google.com/file/d/1ZjgiXr3WsioQ_F9Ao3qYU_Aj2t9BUWl9/view?usp=sharing">View</a>  |
 |   6  | Discernment of Unsolicited Internet Spamdexing Using Graph Theory  | GOOGLE | <a href="https://drive.google.com/file/d/1KbNhWwcXkDVq3oPUuvtBLYtnkUzK_KUa/view?usp=sharing">View</a>  |
-|  -   |  - | -  | <a href="https://github.com/devanshsolani/Accomplishments">See More...</a>  |
 
 
 <br/>
@@ -97,7 +96,7 @@
 
 <h1>Streak & Stats !!</h1>
 <div>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=devanshsolani&theme=blue-green&hide_border=true" width="350"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=devanshsolani&theme=blue-green&hide_border=true%22%20width=%22350%22> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=devanshsolani&count_private=true&show_icons=true&theme=blue-green&hide_border=true" width="350">
 </div>
  
