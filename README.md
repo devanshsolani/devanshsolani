@@ -94,14 +94,9 @@
 <br/>
 
 
-<h1>Streak & Stats !!</h1>
+<h1>Statistics</h1>
 <div>
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=devanshsolani&theme=blue-green&hide_border=true" width="350"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=devanshsolani&theme=blue-green&hide_border=true" width="350">
   <img src="https://github-readme-stats.vercel.app/api?username=devanshsolani&count_private=true&show_icons=true&theme=blue-green&hide_border=true" width="350">
 </div>
-
- 
-<a href="https://stackoverflow.com/users/13858444/devanshsolani" target="_blank">
-<img alt="Stack overflow"
-src="https://stackoverflow-badge.vercel.app/?userID=13858444 "width="255"  />
-</a>
